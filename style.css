@@ -1,0 +1,36 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    text-align: center;
+    color: white;
+    background-color: rgb(30, 30, 38);
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 0px;
+}
+
+.skola {
+    margin-top: 7px;
+    font-size: 20px;
+    opacity: 0.7;
+}
+
+.obsah {
+    text-align: left;
+    width: 90%;
+    max-width: 800px;
+    margin: auto;
+}
+
+.hry {
+    line-height: 0px;
+    font-size: 0px;
+}
+
+.hry > img {
+    width: 50%;
+}
